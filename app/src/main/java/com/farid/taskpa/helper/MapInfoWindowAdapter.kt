@@ -26,7 +26,7 @@ class MapInfoWindowAdapter(var context: Context?) :
         title?.text = user.name
         address?.text = user.address
         PicassoTrustAll.getInstance(context).load(user.imageUrl)
-            .placeholder(R.drawable.image_placeholder).transform(CircleTransform())
+            .placeholder(R.drawable.placeholder).transform(CircleTransform())
             .into(iv)
         return v
     }

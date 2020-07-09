@@ -8,6 +8,8 @@
         \nLocation: %s
     </string>
 
+    <string name="map_key">BuildConfig.API_KEY</string>
+
     <string name="location">Location</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
