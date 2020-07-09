@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Location Real Time</string>
+
+    <string name="rationale_location">This app needs access to your location to know where you are.</string>
+
+    <string name="returned_from_app_settings_to_activity">
+        Returned from app settings to MainActivity with the following permissions:
+        \nLocation: %s
+    </string>
+
+    <string name="location">Location</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="restart_call">Restart Call</string>
+    <string name="name">Name : </string>
+    <string name="address">"Address : "</string>
+</resources>
